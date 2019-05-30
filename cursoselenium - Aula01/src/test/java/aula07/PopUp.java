@@ -12,6 +12,8 @@ public class PopUp {
 
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
+		
+		System.out.print("testando");
 	}
 
 	@AfterClass
